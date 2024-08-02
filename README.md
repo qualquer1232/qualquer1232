@@ -1,6 +1,6 @@
 ## Boas vindas 🩵
 
-- Estou estudando no alura
+- Estou estudando no [alura](https://www.alura.com.br)
 
 ### Você quer entrar em contato comigo 
 
